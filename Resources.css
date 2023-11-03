@@ -1,0 +1,16 @@
+.asd{
+    background-color: rgb(61, 61, 171);
+}
+.fgh{
+    background-image: url(pri.jpg);
+    height: 300px;
+    width: 100%;
+
+background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+a{
+    text-decoration: none;
+}
+

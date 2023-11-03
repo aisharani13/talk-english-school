@@ -1,0 +1,23 @@
+.asd{
+    background-color: rgb(61, 61, 171);
+}
+.fgh{
+    background-image: url(far.jpg);
+    height: 500px;
+    width: 100%;
+
+background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.r a{
+    text-decoration: none;
+}
+.hb{
+    background-image: url(rs.jpg);
+    height: 300px;
+    width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
